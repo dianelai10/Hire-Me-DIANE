@@ -1,0 +1,20 @@
+body {
+    background-color: pink;
+    text-align: center;
+    color: purple;
+}
+
+.Diane {
+    color: #BA7DDD;
+    font-family: 'Fruktur', cursive;
+}
+
+
+.three {
+    color: #7DADDD;
+    font-family: 'Oswald', sans-serif;
+}
+
+ul {
+    display: inline-block;
+}
